@@ -22,30 +22,34 @@ namespace MvcMyStories.Models
                 context.story.AddRange(
                     new Story
                     {
-                        Title = "My first story",
-                        ReleaseDate = DateTime.Parse("1989-2-12"),
-                        Content = "This is my first story, made from the SeedData.",
+                        Title = "My first story in this App!",
+                        ReleaseDate = DateTime.Parse("2019-2-18"),
+                        Content = "This is my first story, in this app. It was made from the SeedData and is fairly simple. Here is a picture of my motorcycle.",
+                        imgPath = "Tenere.jpg"
                     },
 
                     new Story
                     {
-                        Title = "The second story ",
-                        ReleaseDate = DateTime.Parse("1984-3-13"),
-                        Content = "This is another story made from the SeedData",
+                        Title = "The second story, it is about friends!",
+                        ReleaseDate = DateTime.Parse("2019-2-19"),
+                        Content = "This is another story made from the SeedData. Today i went out with friends!",
+                        imgPath = "beermug.png"
                     },
 
                     new Story
                     {
-                        Title = "Daily entry number three",
-                        ReleaseDate = DateTime.Parse("1986-2-23"),
-                        Content = "This is only a test entry",
+                        Title = "Daily entry number three, i went riding!",
+                        ReleaseDate = DateTime.Parse("2019-2-20"),
+                        Content = "Today i went out and rode with a friend, he has an amazing 94' Suzuki DR350.",
+                        imgPath = "Suzuki.jpg"
                     },
 
                     new Story
                     {
                         Title = "Last of today",
-                        ReleaseDate = DateTime.Parse("1959-4-15"),
-                        Content = "This is a very nice test",
+                        ReleaseDate = DateTime.Parse("2019-2-21"),
+                        Content = "Today i played some pen and paper rpg, i've been the dungeon master since kid.",
+                        imgPath = "tolkien.jpg"
                     }
                 );
                 context.SaveChanges();

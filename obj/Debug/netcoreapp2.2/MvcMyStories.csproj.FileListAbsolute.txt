@@ -28,8 +28,6 @@
 /home/azokah/Documentos/Programacion/aspnet/MvcMyStories/obj/Debug/netcoreapp2.2/MvcMyStories.dll
 /home/azokah/Documentos/Programacion/aspnet/MvcMyStories/obj/Debug/netcoreapp2.2/MvcMyStories.pdb
 /home/azokah/Documentos/Programacion/aspnet/MvcMyStories/obj/Debug/netcoreapp2.2/MvcMyStories.csproj.CopyComplete
-/home/azokah/Documentos/Programacion/aspnet/MvcMyStories/obj/Debug/netcoreapp2.2/Razor/Views/MyFirst/Index.g.cshtml.cs
-/home/azokah/Documentos/Programacion/aspnet/MvcMyStories/obj/Debug/netcoreapp2.2/Razor/Views/MyFirst/Welcome.g.cshtml.cs
 /home/azokah/Documentos/Programacion/aspnet/MvcMyStories/obj/Debug/netcoreapp2.2/Razor/Views/Stories/Create.g.cshtml.cs
 /home/azokah/Documentos/Programacion/aspnet/MvcMyStories/obj/Debug/netcoreapp2.2/Razor/Views/Stories/Delete.g.cshtml.cs
 /home/azokah/Documentos/Programacion/aspnet/MvcMyStories/obj/Debug/netcoreapp2.2/Razor/Views/Stories/Details.g.cshtml.cs
